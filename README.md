@@ -19,7 +19,7 @@ First, of course, get the template.
 After that, you will have to get the **node_modules** folder,
 which contains everything that the **React App** needs to run.
 
-To do that, just run:
+To do that, in the terminal, while being in the parent folder (**react-vite**), just run:
 
 > **npm i** or **npm install**.
 
